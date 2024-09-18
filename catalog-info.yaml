@@ -6,5 +6,5 @@ metadata:
   # Example for optional annotations
 spec:
   type: website
-  owner: guillermo-quintanar_neoris
+  owner: incibe-r01
   lifecycle: experimental
