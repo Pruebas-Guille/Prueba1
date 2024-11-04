@@ -8,3 +8,4 @@ spec:
   type: website
   owner: guillermo-quintanar_neoris
   lifecycle: experimental
+  secret: hondevas
