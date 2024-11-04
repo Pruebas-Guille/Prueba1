@@ -9,3 +9,5 @@ spec:
   owner: guillermo-quintanar_neoris
   lifecycle: experimental
   secret: hondevas
+annotations:
+  webhookSecret: "Mavie"
